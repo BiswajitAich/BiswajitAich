@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I'm Biswajit Aich !
+
+![Header](https://github.com/BiswajitAich/BiswajitAich/blob/main/header.gif)
 
 
 ## 🌐 Socials:
